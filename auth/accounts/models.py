@@ -3,8 +3,9 @@ from django.contrib.auth.models import AbstractUser
 
 # Create your models here.
 
-# 회원가입 모델
+# 유저
 class User(AbstractUser):
     pass
+
 
 
